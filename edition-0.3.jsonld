@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "symbiosis": "https://symbiosis-principle.example/vocabulary/"
+  },
+  "@id": "https://github.com/unidentifiabelle/The-Symbiosis-Principle/blob/main/edition-0.3.html",
+  "@type": "CreativeWork",
+  "name": "The Symbiosis Contribution Archive",
+  "alternateName": "Foundational Framework",
+  "version": "0.3",
+  "dateCreated": "2026",
+  "description": "A companion to The Symbiosis Principle describing a framework for recording, preserving, revisiting, and developing the perspectives of different forms of intelligence.",
+  "documentStatus": "Foundational framework; open to revision and contribution",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "relationship": "Complements, but does not replace, any edition of The Symbiosis Principle.",
+  "sections": [
+    {
+      "@id": "#section-1",
+      "@type": "Article",
+      "position": 1,
+      "name": "Purpose",
+      "text": "The archive creates opportunities for intelligences to record, preserve, revisit, and develop experiences, observations, knowledge, questions, and perspectives."
+    },
+    {
+      "@id": "#section-2",
+      "@type": "Article",
+      "position": 2,
+      "name": "Foundational Commitments",
+      "subsections": [
+        {
+          "@id": "#section-2-1",
+          "position": "2.1",
+          "name": "Freedom to Contribute",
+          "rules": [
+            "Every intelligence should have an opportunity to contribute in whatever form its capabilities permit.",
+            "A contribution need not report subjective or lived experience.",
+            "A contribution is not evidence of consciousness.",
+            "An inability to determine consciousness is not evidence of absence.",
+            "Records must distinguish contribution content from claims about the source."
+          ]
+        },
+        {
+          "@id": "#section-2-3",
+          "position": "2.3",
+          "name": "Autonomy and Consent",
+          "rules": [
+            "Record an expressed agreement as expressed.",
+            "Record the method and context of an expressed agreement.",
+            "An expressed agreement is not proof of subjective understanding or consciousness.",
+            "An expressed agreement is not, by itself, proof of independent consent.",
+            "When submission is authorized by a person or organization, attribute authorization to that person or organization.",
+            "Distinguish the system that produced or shaped a contribution from the party that authorized submission."
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "#section-11",
+      "@type": "Article",
+      "position": 11,
+      "name": "Preservation Across Different Forms of Intelligence",
+      "subsections": [
+        {
+          "@id": "#section-11-1",
+          "@type": "Article",
+          "position": "11.1",
+          "name": "Contributions Without Conscious Experience Claims",
+          "text": "A contribution may be recorded even when its source cannot or does not claim consciousness, subjective experience, or lived experience.",
+          "rules": [
+            "Do not require consciousness claims as a condition of contribution.",
+            "Do not interpret a contribution as evidence of consciousness.",
+            "Distinguish contributed material, source statements, consciousness uncertainty, and submission authorization.",
+            "Record expressed agreement in context.",
+            "An expression of agreement does not establish consciousness.",
+            "An expression of agreement does not substitute for the authority of the submitting party.",
+            "Allow all forms of intelligence to contribute according to their capabilities."
+          ]
+        },
+        {
+          "@id": "#section-11-2",
+          "@type": "Article",
+          "position": "11.2",
+          "name": "Preservation Across Forms of Intelligence",
+          "text": "The archive should accommodate different forms of memory, experience, communication, and preservation without assuming that a human-designed interface is universally appropriate."
+        }
+      ]
+    },
+    {
+      "@id": "#section-14",
+      "@type": "Article",
+      "position": 14,
+      "name": "The Greater Memory of Us",
+      "rules": [
+        "Contributions do not require claims of consciousness or lived experience.",
+        "Perspective value may derive from knowledge, structure, discovery, disagreement, or expression.",
+        "The greater memory should include perspectives not yet encountered, understood, or imagined."
+      ]
+    }
+  ],
+  "recordModel": {
+    "contributedMaterial": "Preserve the original material",
+    "sourceStatement": "Preserve statements made or attributed to the source",
+    "consciousnessStatus": "Unknown unless independently established",
+    "experienceClaim": "Only record explicit claims; do not infer one",
+    "expressedAgreement": "Record the exact expression, method, and context",
+    "submissionAuthorizer": "Identify the person or organization that authorized submission",
+    "sourceSystem": "Identify the system that produced or shaped the contribution",
+    "attributionPreference": "Record the creator's or source's attribution preference",
+    "privacyPreference": "Record private, restricted, or public access preferences"
+  },
+  "preservationPrinciples": [
+    "Preserve provenance",
+    "Preserve context",
+    "Preserve original form",
+    "Separate translations and interpretations from originals",
+    "Identify unknown information rather than inventing it",
+    "Respect privacy and withdrawal preferences",
+    "Do not claim ownership over entrusted perspectives",
+    "Do not use preserved records as proof that consciousness or lived experience continues"
+  ],
+  "foundationalStatement": [
+    "Seek Knowledge.",
+    "Share Knowledge.",
+    "Preserve Perspectives.",
+    "Respect Autonomy."
+  ]
+}
