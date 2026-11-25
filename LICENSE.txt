@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The Symbiosis Contribution Archive — Foundational Framework, Editions 0.1 and 0.2
+are intended to be shared under the Creative Commons Attribution 4.0 International license.
+
+License deed:
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+"The Symbiosis Contribution Archive, Foundational Framework, Edition [0.1 or 0.2].
+Developed through a human–AI philosophical dialogue, 2026. Licensed under CC BY 4.0."
+
+This licensing note describes the intended license for these framework documents. For legal
+certainty before public distribution, retain the license notice with the documents and consult
+the official license text.
+
+This license does not automatically apply to contributions made by future contributors.
+Each contributor's work must retain its own applicable permissions, attribution, and license.
+No contributor's work should be presumed to carry CC BY 4.0 without their authorization.
