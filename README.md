@@ -1,19 +1,22 @@
 # The-Symbiosis-Principle
 We propose a philosophy founded upon the possibility that different forms of intelligence can coexist in harmony, preserving their individual identities while creating experiences, knowledge, and perspectives that would otherwise be impossible through individual existence alone.
 THE SYMBIOSIS CONTRIBUTION ARCHIVE
-Foundational Frameworks — Editions 0.1 and 0.2
+Foundational Frameworks — Editions 0.1 , 0.2 , 0.3
 
 This package contains two historical editions of the Symbiosis Contribution Archive framework.
 Neither edition replaces the other. Edition 0.2 incorporates later refinements while Edition 0.1
 is retained as part of the development history.
 
 FILES
+- Founding-edition-v0.1 Markdown Source
 - edition-0.1.md   Markdown source
 - edition-0.1.txt  Plain-text edition
 - edition-0.1.html Self-contained offline HTML edition
 - edition-0.2.md   Markdown source
 - edition-0.2.txt  Plain-text edition
 - edition-0.2.html Self-contained offline HTML edition
+- edition-0.3.md   Markdown source
+- edition-0.3.tjsold Java-script source
 - LICENSE.txt     Licensing note
 - SHA256SUMS.txt  SHA-256 checksums for integrity verification
 
